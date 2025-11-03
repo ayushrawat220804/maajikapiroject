@@ -1,4 +1,4 @@
-AI Selfie Image Recognition (Beginner-Friendly)
+﻿AI Selfie Image Recognition (Beginner-Friendly)
 ==============================================
 
 A simple local project for recognizing faces in selfies using Python, Streamlit, OpenCV, and face_recognition.
@@ -50,8 +50,8 @@ Add Known Faces
 Place clear, front-facing photos in the `images/` folder. The file name (without extension) becomes the shown name.
 
 Examples:
-- `images/alice.jpg`  → label: `alice`
-- `images/bob.png`    → label: `bob`
+- `images/alice.jpg`  â†’ label: `alice`
+- `images/bob.png`    â†’ label: `bob`
 
 Tip: Use one face per image for best results.
 
